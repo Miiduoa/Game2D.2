@@ -1,0 +1,31 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable boy1
+drawable boy2
+drawable boy3
+drawable boy4
+drawable boy5
+drawable boy6
+drawable boy7
+drawable boy8
+drawable forest
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable start
+drawable virus1
+drawable virus2
+mipmap ic_launcher
+mipmap ic_launcher_round
+raw gameover
+raw lastletter
+string app_name
+style Theme.Game2D
+xml backup_rules
+xml data_extraction_rules
